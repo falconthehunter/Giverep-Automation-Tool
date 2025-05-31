@@ -1,0 +1,44 @@
+{
+  "name": "giverep-automation-tool",
+  "version": "1.0.0",
+  "description": "A specialized automation tool for auto-replying to GiveRep airdrop tweets on X.com (Twitter), using Chromium, puppeteer-core, puppeteer-extra, and puppeteer-extra-plugin-stealth. Supports scraping, mass replying, and is configurable for any subject.",
+  "main": "giverep.js",
+  "scripts": {
+    "start": "node giverep.js",
+    "scrape": "node scrap.js"
+  },
+  "keywords": [
+    "giverep",
+    "airdrop",
+    "automation",
+    "puppeteer",
+    "puppeteer-core",
+    "puppeteer-extra",
+    "puppeteer-extra-plugin-stealth",
+    "chromium",
+    "x.com",
+    "twitter",
+    "reply-bot",
+    "mass-reply",
+    "scraper"
+  ],
+  "author": "Anhar Hussan <t.me/anharhussan1> (https://github.com/falconthehunter)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "",
+    "puppeteer-extra": "",
+    "puppeteer-extra-plugin-stealth": "",
+    "chalk": ""
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/falconthehunter/giverep-automation-tool"
+  },
+  "bugs": {
+    "url": "https://github.com/falconthehunter/giverep-automation-tool/issues"
+  },
+  "homepage": "https://github.com/falconthehunter/giverep-automation-tool#readme"
+}
