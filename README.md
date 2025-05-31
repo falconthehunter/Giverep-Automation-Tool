@@ -35,8 +35,8 @@ While optimized for GiveRep airdrop engagement, users can adapt the automation s
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repo-url>
-cd <your-repo-dir>
+git clone https://github.com/falconthehunter/Giverep-Automation-Tool.git
+cd Giverep-Automation-Tool
 ```
 
 ---
@@ -45,6 +45,10 @@ cd <your-repo-dir>
 
 ```sh
 npm install puppeteer-core puppeteer-extra puppeteer-extra-plugin-stealth chalk
+```
+Or
+```
+npm i
 ```
 
 ---
@@ -102,11 +106,14 @@ sudo apt-get install nodejs npm
 
 #### **F. Clone Repo and Install Node.js Dependencies**  
 ```sh
-git clone <your-repo-url>
-cd <your-repo-dir>
+git clone https://github.com/falconthehunter/Giverep-Automation-Tool.git
+cd Giverep-Automation-Tool
 npm install puppeteer-core puppeteer-extra puppeteer-extra-plugin-stealth chalk
 ```
-
+Or 
+```
+npm i
+```
 ---
 
 ## 🗂️ File Preparation & Workflow
