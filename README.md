@@ -133,7 +133,7 @@ Create a file named `auth.json`:
 > - **Method 1:**  
 >   Log in to X.com, open DevTools → Application → Cookies for `.x.com` or `.twitter.com`, and copy `auth_token` and `ct0`.
 >
-> - **Method 2 (Recommended for most users):**  
+> - **Method 2 :**  
 >   1. Download and install the [EditThisCookie extension](https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol) for Chrome.
 >   2. Log in to [x.com](https://x.com) in your browser.
 >   3. Click the EditThisCookie extension icon.
