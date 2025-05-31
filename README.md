@@ -242,7 +242,23 @@ node giverep.js
 
 ## ☕ Buy Me a Coffee
 
-If this tool saved you days of manual work, consider [buying me a coffee](https://www.buymeacoffee.com/) to support more free automation tools like this!  
-**Thank you! 🙏**
+If you find this project helpful and would like to support its development, you can buy me a coffee by sending crypto donations to any of the following wallet addresses:
+
+- **Ethereum (ETH):**
+  ```
+  0x53C1e32E27907Cfe875B495AaF1520dA8F540ccb
+  ```
+
+- **Solana (SOL):**
+  ```
+  4E5LHerYDeLZsBqF8HniSm7bxRhz9qAMUdcBeUHkWdfv
+  ```
+
+- **Sui:**
+  ```
+  0x1434502c87934911537b7e7704bc73edc6a3dde69ba0a5110a4016cc6b382824
+  ```
+
+Thank you for your support! 🚀
 
 ---
