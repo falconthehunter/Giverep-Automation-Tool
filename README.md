@@ -238,7 +238,7 @@ node giverep.js
 
 ## ✒️ Author
 
-Anhar Hussan
+[Anhar Hussan](https://t.me/anharhussan1)
 
 ## ☕ Buy Me a Coffee
 
